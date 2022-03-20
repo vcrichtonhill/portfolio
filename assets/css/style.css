@@ -126,7 +126,7 @@ h2 {
 .apps {
     opacity: 50%;
     height: auto;
-    width: 100%ß;
+    width: 100%;
 }
 
 .apps:hover {
@@ -306,6 +306,10 @@ h2 {
         font-size: 24px;
         padding: 0;
         bottom: 105px;
+    }
+
+    .work {
+        padding: 20px 20px 200px 20px;
     }
 
 }
